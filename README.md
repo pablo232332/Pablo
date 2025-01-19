@@ -5,7 +5,7 @@ As a student of cloud computing, this repository showcases my journey and projec
 ## 📚 Learning Goals
 
 - Master Terraform for infrastructure management.
-- Explore advanced AWS services like Lambda, RDS, and more.
+- Explore advanced AWS services like S3, RDS, EKS and more.
 - Contribute to open-source projects.
   
 you can contact me at:
