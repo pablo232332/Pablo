@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my Cloud Computing Projects repository!<br>As a student of cloud computing, this repository showcases my journey and projects where I leverage Terraform to manage infrastructure as code (IaC). Each project is a step towards mastering cloud infrastructure and demonstrating real-world use cases.<br><br>📚 Learning Goals<br>Master Terraform for infrastructure management.<br>bash and python scripts<br>Explore advanced AWS services like S3, RDS, EKS and more.<br>Contribute to open-source projects.<br>you can contact me at: wisniewsmi.pawel@gmail.com
+Welcome to my Cloud Computing Projects repository!<br>As a student of cloud computing, this repository showcases my journey and projects where I leverage Terraform to manage infrastructure as code (IaC). Each project is a step towards mastering cloud infrastructure and demonstrating real-world use cases.<br><br>📚 Learning Goals<br>Master Terraform for infrastructure management.<br>bash , powershell and python scripts<br>Explore advanced AWS and AZURE services.<br>Contribute to open-source projects.<br>you can contact me at: wisniewsmi.pawel@gmail.com
 
 
 # 💻 Tech Stack:
